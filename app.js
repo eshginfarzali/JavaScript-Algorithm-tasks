@@ -152,7 +152,7 @@ console.log(`Tempratur ${tem} ℃, ${far}F ve ${kel}K-dir. `)
 
 
 
-/*
+
 
 let letter=prompt('Enter a string: ')
 let array=letter.split(" ")
@@ -170,4 +170,4 @@ const out = array.filter(el => {
 let outT=out.join(' ')
 
 console.log(outT);
-*/
+
