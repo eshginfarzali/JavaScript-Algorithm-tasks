@@ -79,7 +79,7 @@ const value = checkPalindrome(string);
 
 console.log(value);
 
-//
+//algo
 
 
 
